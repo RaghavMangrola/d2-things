@@ -1,5 +1,5 @@
 title:Raghav's Wishlist
-description:Test
+description:Raghav's List
 
 // Tears of Contrition (god-pve)
 //notes: tags:god-pve
@@ -19,6 +19,11 @@ dimwishlist:item=1601177201&perks=839105230,3142289711,2779035018,3425386926
 // Enyo-D (pve)
 //notes: tags:pve
 dimwishlist:item=1601177201&perks=2779035018,3425386926
+dimwishlist:item=1601177201&perks=2779035018,3592538738
+dimwishlist:item=1601177201&perks=2779035018,2458213969
+dimwishlist:item=1601177201&perks=509074078,3425386926
+dimwishlist:item=1601177201&perks=509074078,3592538738
+dimwishlist:item=1601177201&perks=509074078,2458213969
 
 
 // Lunulata-4b (god-pve)
@@ -45,5 +50,3 @@ dimwishlist:item=4019668921&perks=3400784728,4293542123
 dimwishlist:item=4019668921&perks=3400784728,3038247973
 dimwishlist:item=4019668921&perks=1168162263,4293542123
 dimwishlist:item=4019668921&perks=1168162263,3038247973
-
-
