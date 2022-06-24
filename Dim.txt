@@ -1211,9 +1211,19 @@ dimwishlist:item=2490988246&perks=3108830275,2675184851
 dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,124408337
 
 
+// Lunulata-4b (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2513965917&perks=2801223209,3429800428,3700496672,124408337
+
+
 // Lunulata-4b (pve)
 //notes: tags:pve
 dimwishlist:item=2513965917&perks=2846385770,124408337
+
+
+// Lunulata-4b (pve)
+//notes: tags:pve
+dimwishlist:item=2513965917&perks=3700496672,124408337
 
 
 // Aisha's Embrace (god-pve)
