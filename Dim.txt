@@ -1239,10 +1239,6 @@ dimwishlist:item=2591241074&perks=1196733167,16392701,201365942,4293542123
 dimwishlist:item=2591241074&perks=201365942,4293542123
 
 
-// Strident Whistle ()
-dimwishlist:item=2591241074&perks=
-
-
 // Aisha's Embrace (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2638190703&perks=4090651448,1561002382,3400784728,1546637391
