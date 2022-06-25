@@ -16,6 +16,21 @@ dimwishlist:item=108221785&perks=1482024992,791862061,706527188,591790007
 dimwishlist:item=108221785&perks=706527188,591790007
 
 
+// Main Ingredient (pvp)
+//notes: tags:pvp
+dimwishlist:item=253196586&perks=1645158859,1890422124
+
+
+// Main Ingredient (pvp)
+//notes: tags:pvp
+dimwishlist:item=253196586&perks=280464955,1890422124
+
+
+// Main Ingredient (pvp)
+//notes: tags:pvp
+dimwishlist:item=253196586&perks=957782887,2213355989
+
+
 // Nezarec's Whisper (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=254636484&perks=1263609309,2420895100,951095735,1546637391
@@ -40,6 +55,22 @@ dimwishlist:item=254636484&perks=951095735,1546637391
 // Nezarec's Whisper (pve)
 //notes: tags:pve
 dimwishlist:item=254636484&perks=951095735,4104185692
+
+
+// Ignition Code (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391
+
+
+// Ignition Code (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,1546637391
+dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
+
+
+// Ignition Code (pve)
+//notes: tags:pve
+dimwishlist:item=304659313&perks=3161816588,1546637391
 
 
 // Cantata-57 (god-pve)
@@ -243,6 +274,21 @@ dimwishlist:item=568515759&perks=1015611457,2213355989
 dimwishlist:item=568515759&perks=1168162263,3425386926
 
 
+// Forbearance (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
+
+
+// Forbearance (pve)
+//notes: tags:pve
+dimwishlist:item=613334176&perks=2010801679,2396489472
+
+
+// Gallu RR3 (pvp)
+//notes: tags:pvp
+dimwishlist:item=617501162&perks=2866798147,957782887
+
+
 // Deliverance (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=768621510&perks=839105230,689005463,1428297954,2978966579
@@ -263,6 +309,34 @@ dimwishlist:item=768621510&perks=3661387068,2680121939,3523296417,2978966579
 //notes: tags:pve
 dimwishlist:item=768621510&perks=3523296417,2978966579
 dimwishlist:item=768621510&perks=1428297954,2978966579
+
+
+// Peacebond (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=829330711&perks=3661387068,3142289711,1820235745,124408337
+dimwishlist:item=829330711&perks=839105230,3142289711,1820235745,124408337
+dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,124408337
+dimwishlist:item=829330711&perks=3250034553,3142289711,1820235745,124408337
+dimwishlist:item=829330711&perks=1467527085,3142289711,1820235745,124408337
+
+
+// Peacebond (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=829330711&perks=4090651448,3142289711,2846385770,4082225868
+dimwishlist:item=829330711&perks=3661387068,3142289711,2846385770,4082225868
+dimwishlist:item=829330711&perks=839105230,3142289711,2846385770,4082225868
+dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,4082225868
+dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,4082225868
+
+
+// Peacebond (pve)
+//notes: tags:pve
+dimwishlist:item=829330711&perks=1820235745,124408337
+
+
+// Peacebond (pve)
+//notes: tags:pve
+dimwishlist:item=829330711&perks=2846385770,4082225868
 
 
 // Perses-D (god-pve)
@@ -361,6 +435,16 @@ dimwishlist:item=1019000888&perks=1428297954,124408337
 dimwishlist:item=1019000888&perks=3700496672,3038247973
 dimwishlist:item=1019000888&perks=3700496672,1546637391
 dimwishlist:item=1019000888&perks=3700496672,124408337
+
+
+// Servant Leader (pve)
+//notes: tags:pve
+dimwishlist:item=1107446438&perks=247725512,1015611457
+
+
+// Servant Leader (pve)
+//notes: tags:pve
+dimwishlist:item=1107446438&perks=1168162263,4104185692
 
 
 // Chroma Rush (god-pve)
@@ -486,6 +570,11 @@ dimwishlist:item=1135050595&perks=1428297954,4104185692
 dimwishlist:item=1135050595&perks=1428297954,3425386926
 dimwishlist:item=1135050595&perks=1428297954,1546637391
 dimwishlist:item=1135050595&perks=1428297954,1354429876
+
+
+// Frontier's Cry (pvp)
+//notes: tags:pvp
+dimwishlist:item=1141547457&perks=247725512,591790007
 
 
 // Tears of Contrition (god-pve)
@@ -957,6 +1046,11 @@ dimwishlist:item=1959650777&perks=3300816228,1546637391
 dimwishlist:item=1959650777&perks=3300816228,2396489472
 
 
+// Apostate (pvp)
+//notes: tags:pvp
+dimwishlist:item=2164448701&perks=1556840489,3038247973
+
+
 // Fugue-55 (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2233545123&perks=4090651448,3142289711,1354429876,1771339417
@@ -1287,6 +1381,11 @@ dimwishlist:item=2852052802&perks=1820235745,124408337
 dimwishlist:item=2852052802&perks=3643424744,1546637391
 
 
+// Syncopation-53 (pve)
+//notes: tags:pve
+dimwishlist:item=2856514843&perks=1168162263,124408337
+
+
 // Succession (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391
@@ -1317,6 +1416,18 @@ dimwishlist:item=2990047042&perks=1523832109,1546637391
 dimwishlist:item=2990047042&perks=1523832109,469285294
 
 
+// Eye of Sol (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3164743584&perks=4090651448,3142289711,957782887,47981717
+dimwishlist:item=3164743584&perks=839105230,3142289711,957782887,47981717
+dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,47981717
+
+
+// Eye of Sol (pvp)
+//notes: tags:pvp
+dimwishlist:item=3164743584&perks=957782887,47981717
+
+
 // Funnelweb (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692
@@ -1330,6 +1441,13 @@ dimwishlist:item=3341893443&perks=1840239774,3142289711,1820235745,11612903
 // Funnelweb (pve)
 //notes: tags:pve
 dimwishlist:item=3341893443&perks=1820235745,4104185692
+
+
+// Omniscient Eye (pvp)
+//notes: tags:pvp
+dimwishlist:item=3454326177&perks=2866798147,957782887
+dimwishlist:item=3454326177&perks=3513791699,957782887
+dimwishlist:item=3454326177&perks=1168162263,957782887
 
 
 // Typhon GL5 (god-pve)
@@ -1410,6 +1528,11 @@ dimwishlist:item=4019668921&perks=3400784728,4293542123
 dimwishlist:item=4019668921&perks=3400784728,3038247973
 dimwishlist:item=4019668921&perks=1168162263,4293542123
 dimwishlist:item=4019668921&perks=1168162263,3038247973
+
+
+// Bonechiller (pve)
+//notes: tags:pve
+dimwishlist:item=4037745684&perks=3300816228,3523296417
 
 
 // Accrued Redemption (god-pve)
