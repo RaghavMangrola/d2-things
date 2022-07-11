@@ -746,12 +746,16 @@ dimwishlist:item=1621657423&perks=1196733167,16392701,247725512,3365897133
 dimwishlist:item=1621657423&perks=247725512,3365897133
 
 
+// Redback-5si (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1687353095&perks=839105230,3142289711,1820235745,3425386926
+dimwishlist:item=1687353095&perks=3661387068,3142289711,1820235745,3425386926
+dimwishlist:item=1687353095&perks=4090651448,3142289711,1820235745,3425386926
+
+
 // Redback-5si (pve)
 //notes: tags:pve
 dimwishlist:item=1687353095&perks=1820235745,3425386926
-dimwishlist:item=1687353095&perks=1820235745,1546637391
-dimwishlist:item=1687353095&perks=1428297954,3425386926
-dimwishlist:item=1687353095&perks=1428297954,1546637391
 
 
 // Herod-C (god-pve)
@@ -1111,6 +1115,21 @@ dimwishlist:item=1959650777&perks=3977735242,1546637391
 dimwishlist:item=1959650777&perks=3977735242,2396489472
 dimwishlist:item=1959650777&perks=3300816228,1546637391
 dimwishlist:item=1959650777&perks=3300816228,2396489472
+
+
+// Lingering Dread (pve)
+//notes: tags:pve
+dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
+
+
+// Lingering Dread (pve)
+//notes: tags:pve
+dimwishlist:item=2026087437&perks=3300816228,2978966579
+
+
+// Lingering Dread (pve)
+//notes: tags:pve
+dimwishlist:item=2026087437&perks=2010801679,2978966579
 
 
 // Stars in Shadow (pve)
@@ -1501,6 +1520,33 @@ dimwishlist:item=2990047042&perks=3250034553,3142289711,1523832109,469285294
 //notes: tags:pve
 dimwishlist:item=2990047042&perks=1523832109,1546637391
 dimwishlist:item=2990047042&perks=1523832109,469285294
+
+
+// Unforgiven (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,11612903
+dimwishlist:item=3000847393&perks=3661387068,1885400500,3523296417,11612903
+dimwishlist:item=3000847393&perks=839105230,1885400500,3523296417,11612903
+
+
+// Unforgiven (pve)
+//notes: tags:pve
+dimwishlist:item=3000847393&perks=3523296417,11612903
+
+
+// Unforgiven (pve)
+//notes: tags:pve
+dimwishlist:item=3000847393&perks=2779035018,4104185692
+
+
+// Unforgiven (pve)
+//notes: tags:pve
+dimwishlist:item=3000847393&perks=2779035018,3425386926
+
+
+// Unforgiven (pve)
+//notes: tags:pve
+dimwishlist:item=3000847393&perks=3523296417,2610012052
 
 
 // Timelines' Vertex (pvp)
