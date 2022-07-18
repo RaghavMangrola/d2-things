@@ -1,5 +1,4 @@
 title:Raghav's Wishlist
-description:Test
 
 // Riiswalker (god-pve)
 //notes: tags:god-pve
@@ -314,6 +313,11 @@ dimwishlist:item=613334176&perks=2010801679,2396489472
 // Gallu RR3 (pvp)
 //notes: tags:pvp
 dimwishlist:item=617501162&perks=2866798147,957782887
+
+
+// The Supremacy (pve)
+//notes: tags:pve
+dimwishlist:item=686951703&perks=957782887,1015611457
 
 
 // Deliverance (god-pve)
@@ -635,6 +639,11 @@ dimwishlist:item=1135050595&perks=1428297954,1354429876
 dimwishlist:item=1141547457&perks=247725512,591790007
 
 
+// Cold Denial (pvp)
+//notes: tags:pvp
+dimwishlist:item=1216130969&perks=2450788523,2458213969
+
+
 // Tears of Contrition (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1366394399&perks=839105230,3142289711,3400784728,3038247973
@@ -760,6 +769,16 @@ dimwishlist:item=1621657423&perks=1196733167,16392701,247725512,3365897133
 // Biting Winds (pve)
 //notes: tags:pve
 dimwishlist:item=1621657423&perks=247725512,3365897133
+
+
+// Wastelander M5 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1679868061&perks=3161816588,47981717
+
+
+// Wastelander M5 (pve)
+//notes: tags:pve
+dimwishlist:item=1679868061&perks=3161816588,2679249093
 
 
 // Redback-5si (god-pve)
@@ -1131,6 +1150,11 @@ dimwishlist:item=1959650777&perks=3977735242,1546637391
 dimwishlist:item=1959650777&perks=3977735242,2396489472
 dimwishlist:item=1959650777&perks=3300816228,1546637391
 dimwishlist:item=1959650777&perks=3300816228,2396489472
+
+
+// Burden of Guilt (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=2002522739&perks=1428297954,2978966579
 
 
 // D.F.A. (Adept) (pve)
@@ -1755,6 +1779,16 @@ dimwishlist:item=3653573172&perks=3418782618,2213355989
 // The Messenger (pvp)
 //notes: tags:pvp
 dimwishlist:item=3658188704&perks=247725512,3047969693
+
+
+// Transfiguration (pve)
+//notes: tags:pve
+dimwishlist:item=3799980700&perks=3425386926,1015611457
+
+
+// Transfiguration (pve)
+//notes: tags:pve
+dimwishlist:item=3799980700&perks=1168162263,3038247973
 
 
 // Finite Impactor (pvp)
