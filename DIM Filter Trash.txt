@@ -55,7 +55,7 @@
 	or 
 	(
 		/* Raghav's addition - guns not on wishlist */
-		is:weapon -is:wishlistunknown -is:locked -is:deepsight -is:maxpower -is:wishlist
+		/* is:weapon -is:wishlistunknown -is:locked -is:deepsight -is:maxpower -is:wishlist */
 	)
 )
 
@@ -75,6 +75,6 @@
 -is:deepsight
 
 /* Ignore items from a raid */
--source:raid
+/* -source:raid */
 
 -light:>1568

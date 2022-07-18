@@ -267,6 +267,11 @@ dimwishlist:item=502356570&perks=744594675,4293542123
 dimwishlist:item=502356570&perks=3592538738,4293542123
 
 
+// PLUG ONE.1 (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=534775659&perks=2779035018,1427256713
+
+
 // Retraced Path (pve)
 //notes: tags:pve
 dimwishlist:item=548958835&perks=1820235745,2610012052
@@ -289,6 +294,11 @@ dimwishlist:item=568515759&perks=1015611457,2213355989
 
 // Chattering Bone ()
 dimwishlist:item=568515759&perks=1168162263,3425386926
+
+
+// Age-Old Bond (pve)
+//notes: tags:pve
+dimwishlist:item=601592879&perks=1354429876,3425386926
 
 
 // Forbearance (god-pve)
@@ -354,6 +364,12 @@ dimwishlist:item=829330711&perks=1820235745,124408337
 // Peacebond (pve)
 //notes: tags:pve
 dimwishlist:item=829330711&perks=2846385770,4082225868
+
+
+// Borrowed Time (pve)
+//notes: tags:pve
+dimwishlist:item=875848769&perks=2779035018,3425386926
+dimwishlist:item=875848769&perks=2779035018,4104185692
 
 
 // Bad Omens (pve)
@@ -1276,6 +1292,11 @@ dimwishlist:item=2448907086&perks=3300816228,2284787283
 dimwishlist:item=2448907086&perks=3300816228,1275731761
 
 
+// Cartesian Coordinate (pve)
+//notes: tags:pve
+dimwishlist:item=2481881293&perks=1556840489,1546637391
+
+
 // CALUS Mini-Tool (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2490988246&perks=4090651448,3142289711,4071163871,4293542123
@@ -1482,9 +1503,24 @@ dimwishlist:item=2852052802&perks=1820235745,124408337
 dimwishlist:item=2852052802&perks=3643424744,1546637391
 
 
+// A Sudden Death (pvp)
+//notes: tags:pvp
+dimwishlist:item=2855157553&perks=3161816588,957782887
+
+
 // Syncopation-53 (pve)
 //notes: tags:pve
 dimwishlist:item=2856514843&perks=1168162263,124408337
+
+
+// Crisis Inverted (pvp)
+//notes: tags:pvp
+dimwishlist:item=2888266564&perks=247725512,2846385770
+
+
+// Crisis Inverted (pvp)
+//notes: tags:pvp
+dimwishlist:item=2888266564&perks=1168162263,1015611457
 
 
 // Xenoclast IV (pve)
@@ -1586,6 +1622,20 @@ dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,47981717
 dimwishlist:item=3164743584&perks=957782887,47981717
 
 
+// Vision of Confluence (pve)
+//notes: tags:pve
+dimwishlist:item=3186018373&perks=3418782618,3824105627
+dimwishlist:item=3186018373&perks=3418782618,4104185692
+
+
+// Aisha's Embrace (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=3245493570&perks=3400784728,1354429876
+dimwishlist:item=3245493570&perks=3400784728,1546637391
+dimwishlist:item=3245493570&perks=3700496672,1354429876
+dimwishlist:item=3245493570&perks=3700496672,1546637391
+
+
 // Funnelweb (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692
@@ -1599,6 +1649,25 @@ dimwishlist:item=3341893443&perks=1840239774,3142289711,1820235745,11612903
 // Funnelweb (pve)
 //notes: tags:pve
 dimwishlist:item=3341893443&perks=1820235745,4104185692
+
+
+// Reckless Oracle (pve)
+//notes: tags:pve
+dimwishlist:item=3385326721&perks=1168162263,1015611457
+dimwishlist:item=3385326721&perks=1168162263,3523296417
+dimwishlist:item=3385326721&perks=1168162263,4082225868
+
+
+// Insidious (pve)
+//notes: tags:pve
+dimwishlist:item=3428521585&perks=247725512,1546637391
+dimwishlist:item=3428521585&perks=247725512,3425386926
+dimwishlist:item=3428521585&perks=247725512,11612903
+
+
+// Insidious (pve)
+//notes: tags:pve
+dimwishlist:item=3428521585&perks=3523296417,11612903
 
 
 // Omniscient Eye (pvp)
@@ -1681,6 +1750,11 @@ dimwishlist:item=3652506829&perks=247725512,1771339417
 // Praedyth's Revenge (pve)
 //notes: tags:pve
 dimwishlist:item=3653573172&perks=3418782618,2213355989
+
+
+// The Messenger (pvp)
+//notes: tags:pvp
+dimwishlist:item=3658188704&perks=247725512,3047969693
 
 
 // Finite Impactor (pvp)
