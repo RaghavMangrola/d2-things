@@ -1117,6 +1117,11 @@ dimwishlist:item=1959650777&perks=3300816228,1546637391
 dimwishlist:item=1959650777&perks=3300816228,2396489472
 
 
+// D.F.A. (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=2006308129&perks=1428297954,1954620775
+
+
 // Lingering Dread (pve)
 //notes: tags:pve
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
@@ -1554,6 +1559,14 @@ dimwishlist:item=3000847393&perks=3523296417,2610012052
 dimwishlist:item=3055192515&perks=280464955,957782887
 
 
+// Austringer (pve)
+//notes: tags:pve
+dimwishlist:item=3055790362&perks=699525795,2846385770
+dimwishlist:item=3055790362&perks=699525795,509594246
+dimwishlist:item=3055790362&perks=3719974635,2846385770
+dimwishlist:item=3055790362&perks=3719974635,509594246
+
+
 // Threaded Needle (pve)
 //notes: tags:pve
 dimwishlist:item=3075224551&perks=2284787283,1546637391
@@ -1665,6 +1678,11 @@ dimwishlist:item=3652506829&perks=247725512,1771339417
 dimwishlist:item=3652506829&perks=247725512,1771339417
 
 
+// Praedyth's Revenge (pve)
+//notes: tags:pve
+dimwishlist:item=3653573172&perks=3418782618,2213355989
+
+
 // Finite Impactor (pvp)
 //notes: tags:pvp
 dimwishlist:item=3813153080&perks=2450788523,591790007
@@ -1773,5 +1791,10 @@ dimwishlist:item=4225322581&perks=3300816228,2679249093
 // Ragnhild-D (pve)
 //notes: tags:pve
 dimwishlist:item=4225322581&perks=1820235745,3523296417
+
+
+// Heritage (pve)
+//notes: tags:pve
+dimwishlist:item=4248569242&perks=1523832109,469285294
 
 
