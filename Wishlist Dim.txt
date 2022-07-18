@@ -254,6 +254,11 @@ dimwishlist:item=378498222&perks=2779035018,4104185692
 dimwishlist:item=378498222&perks=2779035018,1015611457
 
 
+// Duty Bound (pve)
+//notes: tags:pve
+dimwishlist:item=435216110&perks=3400784728,1546637391
+
+
 // Corrective Measure (pve)
 //notes: tags:pve
 dimwishlist:item=471518543&perks=3418782618,3824105627
@@ -269,6 +274,11 @@ dimwishlist:item=502356570&perks=3592538738,4293542123
 // PLUG ONE.1 (Adept) (pve)
 //notes: tags:pve
 dimwishlist:item=534775659&perks=2779035018,1427256713
+
+
+// Farewell (pve)
+//notes: tags:pve
+dimwishlist:item=541188001&perks=4267945040,4104185692
 
 
 // Retraced Path (pve)
@@ -497,6 +507,16 @@ dimwishlist:item=1019000888&perks=3700496672,124408337
 // The Comedian (pvp)
 //notes: delete tags:pvp
 dimwishlist:item=1028582252&perks=1820235745,1546637391
+
+
+// Extraordinary Rendition (pve)
+//notes: tags:pve
+dimwishlist:item=1097616550&perks=3643424744,4104185692
+
+
+// Extraordinary Rendition (pve)
+//notes: tags:pve
+dimwishlist:item=1097616550&perks=1820235745,2458213969
 
 
 // Servant Leader (pve)
@@ -746,6 +766,11 @@ dimwishlist:item=1399243961&perks=3400784728,1771339417
 dimwishlist:item=1399243961&perks=2284787283,1546637391
 
 
+// Cold Front (pve)
+//notes: tags:pve
+dimwishlist:item=1506719573&perks=1820235745,3425386926
+
+
 // Enyo-D (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1601177201&perks=839105230,3142289711,2779035018,3425386926
@@ -791,6 +816,11 @@ dimwishlist:item=1687353095&perks=4090651448,3142289711,1820235745,3425386926
 // Redback-5si (pve)
 //notes: tags:pve
 dimwishlist:item=1687353095&perks=1820235745,3425386926
+
+
+// Escape Velocity (pve)
+//notes: tags:pve
+dimwishlist:item=1786797708&perks=3643424744,1774574192
 
 
 // Herod-C (god-pve)
@@ -1392,6 +1422,11 @@ dimwishlist:item=2591241074&perks=1196733167,16392701,201365942,4293542123
 // Strident Whistle (pve)
 //notes: tags:pve
 dimwishlist:item=2591241074&perks=201365942,4293542123
+
+
+// Empirical Evidence (pve)
+//notes: tags:pve
+dimwishlist:item=2607304614&perks=1428297954,4082225868
 
 
 // Aisha's Embrace (god-pve)
