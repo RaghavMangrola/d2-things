@@ -1,0 +1,10 @@
+((is:titan or is:warlock) basestat:resilience+recovery:>=23 basestat:discipline:>=23) or
+((is:titan or is:warlock) basestat:resilience+recovery:>=23 basestat:intellect:>=23) or
+((is:titan or is:warlock) basestat:resilience+recovery:>=23 basestat:strength:>=23) or
+(is:hunter basestat:mobility+resilience:>=23 basestat:discipline:>=23) or
+(is:hunter basestat:mobility+resilience:>=23 basestat:intellect:>=23) or
+(is:hunter basestat:mobility+resilience:>=23 basestat:strength:>=23) or
+(is:hunter basestat:mobility+recovery:>=23 basestat:discipline:>=23) or
+(is:hunter basestat:mobility+recovery:>=23 basestat:intellect:>=23) or
+(is:hunter basestat:mobility+recovery:>=23 basestat:strength:>=23)
+-is:exotic

@@ -1,0 +1,80 @@
+/* Trash */
+(
+	(
+		/* Items marked as junk */
+		tag:junk
+	)
+	or
+	(
+		/* Sunset items */
+		is:sunset
+	)
+	or
+	(
+		/* Low rarity equipment */
+		(is:weapon or is:armor)
+		(is:common or is:uncommon or is:blue)
+	)
+	or
+	(
+		/* Low roll armor */
+		is:armor
+		-is:classitem
+		-is:exotic
+		-((is:titan or is:warlock) basestat:resilience+recovery:>=23 basestat:discipline:>=23)
+		-((is:titan or is:warlock) basestat:resilience+recovery:>=23 basestat:intellect:>=23)
+		-((is:titan or is:warlock) basestat:resilience+recovery:>=23 basestat:strength:>=23)
+		-(is:hunter basestat:mobility+resilience:>=23 basestat:discipline:>=23)
+		-(is:hunter basestat:mobility+resilience:>=23 basestat:intellect:>=23)
+		-(is:hunter basestat:mobility+resilience:>=23 basestat:strength:>=23)
+		-(is:hunter basestat:mobility+recovery:>=23 basestat:discipline:>=23)
+		-(is:hunter basestat:mobility+recovery:>=23 basestat:intellect:>=23)
+		-(is:hunter basestat:mobility+recovery:>=23 basestat:strength:>=23)
+	)
+	or
+	(
+		/* Class items that are not modified or masterwork */
+		is:classitem
+		-is:modded
+		-is:masterwork
+	)
+	or
+	(
+		/* Duplicate exotic weapons */
+		is:weapon
+		is:exotic
+		is:dupe
+		kills:0	
+	)
+	or
+	(
+		/* Non-crafted weapons that could be crafted */
+		is:patternunlocked
+		-is:crafted
+	)
+	or 
+	(
+		/* Raghav's addition - guns not on wishlist */
+		is:weapon -is:wishlistunknown -is:locked -is:deepsight -is:maxpower -is:wishlist
+	)
+)
+
+/* Ignore items that are max power */
+-is:maxpower
+
+/* Ignore tagged items besides junk */
+-(is:tagged -tag:junk)
+
+/* Ignore items that are part of a loadout */
+-is:inloadout
+
+/* Ignore items that are equipped */
+-is:equipped
+
+/* Ignore deepsight items */
+-is:deepsight
+
+/* Ignore items from a raid */
+-source:raid
+
+-light:>1568
