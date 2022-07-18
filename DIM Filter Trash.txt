@@ -55,7 +55,7 @@
 	or 
 	(
 		/* Raghav's addition - guns not on wishlist */
-		/* is:weapon -is:wishlistunknown -is:locked -is:deepsight -is:maxpower -is:wishlist */
+		 is:weapon -is:wishlistunknown -is:locked -is:deepsight -is:maxpower -is:wishlist 
 	)
 )
 
