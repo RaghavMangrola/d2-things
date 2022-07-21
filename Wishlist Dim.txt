@@ -1784,10 +1784,6 @@ dimwishlist:item=3568377122&perks=3523296417,3194351027
 dimwishlist:item=3568377122&perks=951095735,3194351027
 
 
-// Typhon GL5 ()
-dimwishlist:item=3568377122&perks=
-
-
 // Stormchaser (pve)
 //notes: tags:pve
 dimwishlist:item=3652506829&perks=2284787283,1771339417
