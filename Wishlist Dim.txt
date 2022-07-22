@@ -1515,6 +1515,11 @@ dimwishlist:item=2638190703&perks=1428297954,1354429876
 dimwishlist:item=2638190703&perks=1428297954,2896038713
 
 
+// Riptide (pve)
+//notes: tags:pve
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+
+
 // Firefright (pve)
 //notes: tags:pve
 dimwishlist:item=2778013407&perks=744594675,1774574192
@@ -1818,6 +1823,12 @@ dimwishlist:item=3799980700&perks=1168162263,3038247973
 // Finite Impactor (pvp)
 //notes: tags:pvp
 dimwishlist:item=3813153080&perks=2450788523,591790007
+
+
+// Pardon Our Dust (pve)
+//notes: tags:pve
+dimwishlist:item=3849810018&perks=3032599245,3300816228,3523296417
+dimwishlist:item=3849810018&perks=3032599245,3300816228,1546637391
 
 
 // Submission (god-pve)
