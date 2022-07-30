@@ -59,9 +59,6 @@
 	)
 )
 
-/* Ignore items that are max power */
--is:maxpower
-
 /* Ignore tagged items besides junk */
 -(is:tagged -tag:junk)
 
@@ -77,4 +74,10 @@
 /* Ignore items from a raid */
 /* -source:raid */
 
--light:>1568
+/* -light:>1568 */
+
+/* Ignore items that are max power */
+/* -is:maxpower */
+
+/* Ignore tagged items besides junk */
+-(is:tagged -tag:junk)
