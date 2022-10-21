@@ -315,6 +315,21 @@ dimwishlist:item=568515759&perks=1015611457,2213355989
 dimwishlist:item=568515759&perks=1168162263,3425386926
 
 
+// D.F.A. (pve)
+//notes: tags:pve
+dimwishlist:item=575830664&perks=1428297954,3425386926
+
+
+// D.F.A. (pve)
+//notes: tags:pve
+dimwishlist:item=575830664&perks=1168162263,3425386926
+
+
+// D.F.A. (pve)
+//notes: tags:pve
+dimwishlist:item=575830664&perks=1168162263,1954620775
+
+
 // Age-Old Bond (pve)
 //notes: tags:pve
 dimwishlist:item=601592879&perks=1354429876,3425386926
@@ -532,6 +547,53 @@ dimwishlist:item=1019000888&perks=3700496672,124408337
 dimwishlist:item=1028582252&perks=1820235745,1546637391
 
 
+// Bottom Dollar (pvp)
+//notes: PvP: This thing is a godsend in PVP. With rolls like Rangefinder/Explosive, Killing Wind/Opening Shot, and Rapid Hit/Eye of the Storm, and Range Finder/Eye of the Storm (just to name a few perk combos), this 120 outshines all with it's fantastic perk pool. I've personally been using a hammer forged, accurized, killing wind, and opening shot roll for ages and it never fails to be as reliable as ever.
+ tags:pvp
+dimwishlist:item=1046651176&perks=2846385770,3038247973
+
+
+// Bottom Dollar (pvp)
+//notes: PvP: This thing is a godsend in PVP. With rolls like Rangefinder/Explosive, Killing Wind/Opening Shot, and Rapid Hit/Eye of the Storm, and Range Finder/Eye of the Storm (just to name a few perk combos), this 120 outshines all with it's fantastic perk pool. I've personally been using a hammer forged, accurized, killing wind, and opening shot roll for ages and it never fails to be as reliable as ever.
+ tags:pvp
+dimwishlist:item=1046651176&perks=2450788523,47981717
+
+
+// Bottom Dollar (pvp)
+//notes: tags:pvp
+dimwishlist:item=1046651176&perks=247725512,699525795
+
+
+// Bottom Dollar (pvp)
+//notes: tags:pvp
+dimwishlist:item=1046651176&perks=2846385770,699525795
+
+
+// Bottom Dollar (pve)
+//notes: tags:pve
+dimwishlist:item=1046651176&perks=2779035018,3038247973
+
+
+// Bottom Dollar (pve)
+//notes: tags:pve
+dimwishlist:item=1046651176&perks=1168162263,2848615171
+
+
+// Bottom Dollar (pve)
+//notes: tags:pve
+dimwishlist:item=1046651176&perks=1168162263,3038247973
+
+
+// Bottom Dollar (pve)
+//notes: tags:pve
+dimwishlist:item=1046651176&perks=247725512,3038247973
+
+
+// Bottom Dollar (pve)
+//notes: tags:pve
+dimwishlist:item=1046651176&perks=2779035018,3425386926
+
+
 // Extraordinary Rendition (pve)
 //notes: tags:pve
 dimwishlist:item=1097616550&perks=3643424744,4104185692
@@ -700,6 +762,21 @@ dimwishlist:item=1216130969&perks=2450788523,2458213969
 // Fatebringer (Timelost) (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,3824105627
+
+
+// Mechabre (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=1280894514&perks=4090651448,3142289711,957782887,47981717
+
+
+// Mechabre (pvp)
+//notes: tags:pvp
+dimwishlist:item=1280894514&perks=957782887,47981717
+
+
+// Mechabre (pve)
+//notes: tags:pve
+dimwishlist:item=1280894514&perks=1428297954,2173046394
 
 
 // Brigand's Law (pve)
@@ -1718,6 +1795,16 @@ dimwishlist:item=2855157553&perks=3161816588,957782887
 // Syncopation-53 (pve)
 //notes: tags:pve
 dimwishlist:item=2856514843&perks=1168162263,124408337
+
+
+// BrayTech Werewolf (pve)
+//notes: Legendary Monte Carlo tags:pve
+dimwishlist:item=2869466318&perks=691659142,4082225868
+
+
+// BrayTech Werewolf (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=2869466318&perks=1359896290,1015611457
 
 
 // Crisis Inverted (pvp)
