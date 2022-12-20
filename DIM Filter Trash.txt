@@ -80,4 +80,4 @@
 /* Ignore tagged items besides junk */
 -(is:tagged -tag:junk)
 
--light:>1577
+-light:>=1580
