@@ -894,6 +894,11 @@ dimwishlist:item=1506719573&perks=1820235745,3425386926
 dimwishlist:item=1509167284&perks=691659142,4104185692
 
 
+// Allied Demand (pvp)
+//notes: tags:pvp
+dimwishlist:item=1532276803&perks=2846385770,699525795
+
+
 // Enyo-D (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1601177201&perks=839105230,3142289711,2779035018,3425386926
@@ -1302,6 +1307,11 @@ dimwishlist:item=1856262127&perks=3592538738,3523296417
 dimwishlist:item=1866778462&perks=3977735242,3194351027
 dimwishlist:item=1866778462&perks=3977735242,1546637391
 dimwishlist:item=1866778462&perks=3977735242,2284787283
+
+
+// Blowout (pve)
+//notes: dont really want gun tags:pve
+dimwishlist:item=1903182562&perks=951095735,2396489472
 
 
 // The Summoner (pve)
