@@ -58,7 +58,7 @@
 	or 
 	(
 		/* Raghav's addition - guns not on wishlist */
-		 is:weapon -is:wishlistunknown -is:locked -is:deepsight -is:maxpower -is:wishlist 
+		 is:weapon -is:wishlistunknown -is:locked  -is:maxpower -is:wishlist 
 	)
 )
 
@@ -72,7 +72,7 @@
 -is:equipped
 
 /* Ignore deepsight items */
--is:deepsight
+/* -is:deepsight */
 
 /* Ignore items from a raid */
 /* -source:raid */
@@ -82,6 +82,3 @@
 
 /* Ignore tagged items besides junk */
 -(is:tagged -tag:junk)
-
--light:>1583
-
