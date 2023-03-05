@@ -97,6 +97,11 @@ dimwishlist:item=254636484&perks=951095735,1546637391
 dimwishlist:item=254636484&perks=951095735,4104185692
 
 
+// Regnant (pve)
+//notes: tags:pve
+dimwishlist:item=268260372&perks=3300816228,3194351027
+
+
 // Ignition Code (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391
@@ -443,6 +448,11 @@ dimwishlist:item=772231794&perks=1820235745,3824105627
 dimwishlist:item=772231794&perks=247725512,3038247973
 
 
+// Synchronic Roulette (pve)
+//notes: tags:pve
+dimwishlist:item=811403305&perks=3619207468,831391274
+
+
 // Planck's Stride (pve)
 //notes: tags:pve
 dimwishlist:item=820890091&perks=1428297954,1890422124
@@ -476,6 +486,16 @@ dimwishlist:item=829330711&perks=1820235745,124408337
 dimwishlist:item=829330711&perks=2846385770,4082225868
 
 
+// Marsilion-C (pve)
+//notes: tags:pve
+dimwishlist:item=867154247&perks=2869569095,2888557110
+
+
+// Marsilion-C (pve)
+//notes: tags:pve
+dimwishlist:item=867154247&perks=1583705720,4293542123
+
+
 // Borrowed Time (pve)
 //notes: tags:pve
 dimwishlist:item=875848769&perks=2779035018,3425386926
@@ -495,6 +515,11 @@ dimwishlist:item=991314988&perks=3977735242,1275731761
 // Bad Omens (pve)
 //notes: tags:pve
 dimwishlist:item=991314988&perks=3300816228,1275731761
+
+
+// Nameless Midnight (pve)
+//notes: tags:pve
+dimwishlist:item=996109059&perks=3619207468,3891536761
 
 
 // Cataclysmic (pve)
@@ -666,6 +691,16 @@ dimwishlist:item=1298815317&perks=2779035018,2173046394
 // Brigand's Law (pve)
 //notes: tags:pve
 dimwishlist:item=1298815317&perks=691659142,3523296417
+
+
+// Dimensional Hypotrochoid (pve)
+//notes: tags:pve
+dimwishlist:item=1311684613&perks=1583705720,2396489472
+
+
+// Dimensional Hypotrochoid (pve)
+//notes: tags:pve
+dimwishlist:item=1311684613&perks=2869569095,2396489472
 
 
 // Qullim's Terminus (pve)
@@ -1303,9 +1338,24 @@ dimwishlist:item=2026087437&perks=2010801679,2978966579
 dimwishlist:item=2050789284&perks=1168162263,1015611457
 
 
+// Battle Scar (pvp)
+//notes: tags:pvp
+dimwishlist:item=2099894368&perks=3619207468,460017080
+
+
 // Apostate (pvp)
 //notes: tags:pvp
 dimwishlist:item=2164448701&perks=1556840489,3038247973
+
+
+// Fatebringer (pve)
+//notes: tags:pve
+dimwishlist:item=2171478765&perks=3038247973,3824105627
+
+
+// Circular Logic (pve)
+//notes: tags:pve
+dimwishlist:item=2187717691&perks=2779035018,831391274
 
 
 // Fixed Odds (pve)
@@ -1533,6 +1583,16 @@ dimwishlist:item=2490988246&perks=3108830275,2675184851
 dimwishlist:item=2496875173&perks=1820235745,3523296417
 
 
+// Caretaker (pve)
+//notes: tags:pve
+dimwishlist:item=2508948099&perks=2590710093,4293542123
+
+
+// Caretaker (pve)
+//notes: tags:pve
+dimwishlist:item=2508948099&perks=2590710093,354401740
+
+
 // Lunulata-4b (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,124408337
@@ -1576,6 +1636,11 @@ dimwishlist:item=2566006935&perks=4071163871,776531651
 // Fioritura-59 (pvp)
 //notes: tags:pvp
 dimwishlist:item=2566006935&perks=2387244414,1015611457
+
+
+// Basso Ostinato (pve)
+//notes: tags:pve
+dimwishlist:item=2573900604&perks=1556840489,2048641572
 
 
 // Compass Rose (pvp)
@@ -2092,6 +2157,16 @@ dimwishlist:item=3813153080&perks=2450788523,591790007
 dimwishlist:item=3829285960&perks=2387244414,3425386926
 
 
+// Hung Jury SR4 (pve)
+//notes: tags:pve
+dimwishlist:item=3832743906&perks=247725512,3891536761
+
+
+// Hung Jury SR4 (pve)
+//notes: tags:pve
+dimwishlist:item=3832743906&perks=1820235745,3891536761
+
+
 // Tripwire Canary (pve)
 //notes: tags:pve
 dimwishlist:item=3849444474&perks=201365942,3365897133
@@ -2117,6 +2192,11 @@ dimwishlist:item=3886416794&perks=3661387068,3142289711,1820235745,4104185692
 //notes: tags:pve
 dimwishlist:item=3886416794&perks=3643424744,4104185692
 dimwishlist:item=3886416794&perks=1820235745,4104185692
+
+
+// Volta Bracket (pve)
+//notes: far tags:pve
+dimwishlist:item=3920310144&perks=3619207468,1771339417
 
 
 // Staccato-46 (god-pve)
@@ -2237,6 +2317,16 @@ dimwishlist:item=4114929480&perks=280464955,2652708987
 // The Third Axiom (pve)
 //notes: tags:pve
 dimwishlist:item=4156253727&perks=2779035018,3425386926
+
+
+// 1000 Yard Stare (pvp)
+//notes: tags:pvp
+dimwishlist:item=4164201232&perks=706527188,957782887
+
+
+// 1000 Yard Stare (pvp)
+//notes: tags:pvp
+dimwishlist:item=4164201232&perks=2866798147,957782887
 
 
 // Ragnhild-D (pve)

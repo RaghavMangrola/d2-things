@@ -82,3 +82,8 @@
 
 /* Ignore tagged items besides junk */
 -(is:tagged -tag:junk)
+
+-(is:hunter light:>1760)
+-(is:titan light:>1750)
+-(is:warlock light:>1790)
+-(is:weapon light:>1790)
