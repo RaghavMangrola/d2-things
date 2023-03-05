@@ -123,6 +123,16 @@ dimwishlist:item=304659313&perks=3161816588,1546637391
 dimwishlist:item=310708513&perks=247725512,1015611457
 
 
+// Coronach-22 (pve)
+//notes: tags:pve
+dimwishlist:item=355382946&perks=2387244414,4293542123
+
+
+// Coronach-22 (pve)
+//notes: tags:pve
+dimwishlist:item=355382946&perks=968510818,365154968
+
+
 // Cantata-57 (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=372697604&perks=4090651448,3142289711,247725512,1954620775
@@ -507,6 +517,11 @@ dimwishlist:item=875848769&perks=2779035018,4104185692
 dimwishlist:item=963710795&perks=1523832109,2978966579
 
 
+// Deafening Whisper (pve)
+//notes: tags:pve
+dimwishlist:item=981718087&perks=1556840489,3300816228
+
+
 // Bad Omens (pve)
 //notes: tags:pve
 dimwishlist:item=991314988&perks=3977735242,1275731761
@@ -540,6 +555,11 @@ dimwishlist:item=1019000888&perks=247725512,3038247973
 // Perses-D (pve)
 //notes: tags:pve
 dimwishlist:item=1019000888&perks=247725512,124408337
+
+
+// The Hero's Burden (pve)
+//notes: tags:pve
+dimwishlist:item=1028124540&perks=2779035018,1015611457
 
 
 // The Comedian (pvp)
@@ -810,6 +830,11 @@ dimwishlist:item=1399243961&perks=3400784728,1771339417
 dimwishlist:item=1399243961&perks=2284787283,1546637391
 
 
+// Nasreddin (pve)
+//notes: tags:pve
+dimwishlist:item=1456017061&perks=1749209109,3913600130
+
+
 // Without Remorse (pve)
 //notes: tags:pve
 dimwishlist:item=1478986057&perks=744594675,4293542123
@@ -840,6 +865,16 @@ dimwishlist:item=1601177201&perks=3661387068,3142289711,2779035018,3425386926
 // Enyo-D (pve)
 //notes: tags:pve
 dimwishlist:item=1601177201&perks=2779035018,3425386926
+
+
+// Harsh Language (pve)
+//notes: tags:pve
+dimwishlist:item=1606497639&perks=4071163871,2048641572
+
+
+// Harsh Language (pve)
+//notes: tags:pve
+dimwishlist:item=1606497639&perks=968510818,2048641572
 
 
 // Biting Winds (god-pve)
@@ -2005,6 +2040,21 @@ dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,47981717
 dimwishlist:item=3164743584&perks=957782887,47981717
 
 
+// Memory Interdict (pve)
+//notes: tags:pve
+dimwishlist:item=3165547384&perks=951095735,2396489472
+
+
+// Memory Interdict (pve)
+//notes: tags:pve
+dimwishlist:item=3165547384&perks=2284787283,2396489472
+
+
+// Memory Interdict (pve)
+//notes: tags:pve
+dimwishlist:item=3165547384&perks=3300816228,2396489472
+
+
 // Vision of Confluence (pve)
 //notes: tags:pve
 dimwishlist:item=3186018373&perks=3418782618,3824105627
@@ -2116,6 +2166,16 @@ dimwishlist:item=3573686365&perks=3161816588,1427256713
 dimwishlist:item=3573686365&perks=1820235745,1427256713
 
 
+// Phyllotactic Spiral (pve)
+//notes: tags:pve
+dimwishlist:item=3635821806&perks=3619207468,2173046394
+
+
+// Phyllotactic Spiral (pve)
+//notes: tags:pve
+dimwishlist:item=3635821806&perks=1870851715,2173046394
+
+
 // Stormchaser (pve)
 //notes: tags:pve
 dimwishlist:item=3652506829&perks=2284787283,1771339417
@@ -2135,6 +2195,16 @@ dimwishlist:item=3653573172&perks=3418782618,2213355989
 // The Messenger (pvp)
 //notes: tags:pvp
 dimwishlist:item=3658188704&perks=247725512,3047969693
+
+
+// Dead Weight (pve)
+//notes: tags:pve
+dimwishlist:item=3738678140&perks=3300816228,2679249093
+
+
+// Dead Weight (pve)
+//notes: tags:pve
+dimwishlist:item=3738678140&perks=1631667848,2360754333
 
 
 // Transfiguration (pve)
@@ -2194,9 +2264,32 @@ dimwishlist:item=3886416794&perks=3643424744,4104185692
 dimwishlist:item=3886416794&perks=1820235745,4104185692
 
 
+// Wendigo GL3 (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=3915197957&perks=3300816228,3194351027
+
+
+// Wendigo GL3 (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=3915197957&perks=3300816228,3751912585
+dimwishlist:item=3915197957&perks=3300816228,3194351027
+dimwishlist:item=3915197957&perks=3300816228,2888557110
+dimwishlist:item=3915197957&perks=2284787283,3751912585
+dimwishlist:item=3915197957&perks=2284787283,3194351027
+dimwishlist:item=3915197957&perks=2284787283,2888557110
+dimwishlist:item=3915197957&perks=2869569095,3751912585
+dimwishlist:item=3915197957&perks=2869569095,3194351027
+dimwishlist:item=3915197957&perks=2869569095,2888557110
+
+
 // Volta Bracket (pve)
 //notes: far tags:pve
 dimwishlist:item=3920310144&perks=3619207468,1771339417
+
+
+// Midha's Reckoning (pve)
+//notes: tags:pve
+dimwishlist:item=3969066556&perks=2869569095,1427256713
 
 
 // Staccato-46 (god-pve)
@@ -2233,6 +2326,16 @@ dimwishlist:item=4050645223&perks=3300816228,3523296417
 // Hezen Vengeance (pve)
 //notes: tags:pve
 dimwishlist:item=4050645223&perks=3300816228,3927722942
+
+
+// Seventh Seraph Carbine (pve)
+//notes: tags:pve
+dimwishlist:item=4070357005&perks=1523832109,365154968
+
+
+// Seventh Seraph Carbine (pve)
+//notes: tags:pve
+dimwishlist:item=4070357005&perks=1523832109,4104185692
 
 
 // Hung Jury SR4 (Adept) (pve)
