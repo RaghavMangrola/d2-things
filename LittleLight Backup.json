@@ -5842,6 +5842,158 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3110377595,
+            "name": "",
+            "plugs": [
+                [
+                    2450788523
+                ],
+                [
+                    3425386926,
+                    460017080
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 231031173,
+            "name": "",
+            "plugs": [
+                [
+                    3418782618
+                ],
+                [
+                    831391274
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "melee build",
+            "hash": 231031173,
+            "name": "",
+            "plugs": [
+                [
+                    691659142
+                ],
+                [
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "good for strand warlock",
+            "hash": 231031173,
+            "name": "",
+            "plugs": [
+                [
+                    691659142
+                ],
+                [
+                    3215448563
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "dont think this gun is good",
+            "hash": 664109750,
+            "name": "",
+            "plugs": [
+                [
+                    1332244541
+                ],
+                [
+                    791862061
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 135029084,
+            "name": "",
+            "plugs": [
+                [
+                    1523832109
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "boss damage weapon",
+            "hash": 135029084,
+            "name": "",
+            "plugs": [
+                [
+                    1523832109
+                ],
+                [
+                    2896038713,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 135029084,
+            "name": "",
+            "plugs": [
+                [
+                    1354429876
+                ],
+                [
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1491665733,
+            "name": "",
+            "plugs": [
+                [
+                    1523832109
+                ],
+                [
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

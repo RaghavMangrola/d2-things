@@ -41,6 +41,37 @@ dimwishlist:item=108221785&perks=1482024992,791862061,706527188,591790007
 dimwishlist:item=108221785&perks=706527188,591790007
 
 
+// Nessa's Oblation (pve)
+//notes: tags:pve
+dimwishlist:item=135029084&perks=1523832109,2048641572
+
+
+// Nessa's Oblation (pve)
+//notes: boss damage weapon tags:pve
+dimwishlist:item=135029084&perks=1523832109,2896038713
+dimwishlist:item=135029084&perks=1523832109,1546637391
+
+
+// Nessa's Oblation (pve)
+//notes: tags:pve
+dimwishlist:item=135029084&perks=1354429876,2896038713
+
+
+// Mykel's Reverence (pve)
+//notes: tags:pve
+dimwishlist:item=231031173&perks=3418782618,831391274
+
+
+// Mykel's Reverence (pve)
+//notes: melee build tags:pve
+dimwishlist:item=231031173&perks=691659142,4082225868
+
+
+// Mykel's Reverence (pve)
+//notes: good for strand warlock tags:pve
+dimwishlist:item=231031173&perks=691659142,3215448563
+
+
 // Eyasluna (pvp)
 //notes: tags:pvp
 dimwishlist:item=235827225&perks=2846385770,588594999
@@ -425,6 +456,11 @@ dimwishlist:item=640114618&perks=1168162263,1015611457
 dimwishlist:item=640114618&perks=1168162263,3523296417
 dimwishlist:item=640114618&perks=1820235745,1015611457
 dimwishlist:item=640114618&perks=1820235745,3523296417
+
+
+// Hand in Hand (pve)
+//notes: dont think this gun is good tags:pve
+dimwishlist:item=664109750&perks=1332244541,791862061,3161816588,2679249093
 
 
 // Hung Jury SR4 (Adept) (pve)
@@ -863,6 +899,11 @@ dimwishlist:item=1456017061&perks=1749209109,3913600130
 // Without Remorse (pve)
 //notes: tags:pve
 dimwishlist:item=1478986057&perks=744594675,4293542123
+
+
+// Briar's Contempt (pve)
+//notes: tags:pve
+dimwishlist:item=1491665733&perks=1523832109,2896038713
 
 
 // Cold Front (pve)
@@ -2045,6 +2086,12 @@ dimwishlist:item=3103325054&perks=1354429876,365154968
 // Beloved (pve)
 //notes: tags:pve
 dimwishlist:item=3107853529&perks=1354429876,4293542123
+
+
+// Autumn Wind (pvp)
+//notes: tags:pvp
+dimwishlist:item=3110377595&perks=2450788523,3425386926
+dimwishlist:item=3110377595&perks=2450788523,460017080
 
 
 // Liminal Vigil (pvp)
