@@ -1,89 +1,89 @@
-/* Trash */
-(
+	/* Trash */
 	(
-		/* Items marked as junk */
-		tag:junk
+		(
+			/* Items marked as junk */
+			tag:junk
+		)
+		or
+		(
+			/* Sunset items */
+			is:sunset
+		)
+		or
+		(
+			/* Low rarity equipment */
+			(is:weapon or is:armor)
+			(is:common or is:uncommon or is:blue)
+		)
+		or
+		(
+			/* Low roll armor */
+			is:armor
+			-is:classitem
+			-is:exotic
+			-((is:titan) basestat:resilience+recovery:>=21 basestat:intellect:>=21) or
+			-((is:titan) basestat:resilience+recovery:>=21 basestat:strength:>=21) or
+			-((is:titan) basestat:resilience+recovery:>=21 basestat:discipline:>=21) or
+			-((is:warlock) basestat:resilience+recovery:>=24 basestat:discipline:>=24)
+			-((is:warlock) basestat:resilience+recovery:>=24 basestat:intellect:>=24)
+			-((is:warlock) basestat:resilience+recovery:>=24 basestat:strength:>=24)
+			-(is:hunter basestat:mobility+resilience:>=24 basestat:discipline:>=24)
+			-(is:hunter basestat:mobility+resilience:>=24 basestat:intellect:>=24)
+			-(is:hunter basestat:mobility+resilience:>=24 basestat:strength:>=24)
+			-(is:hunter basestat:mobility+recovery:>=24 basestat:discipline:>=24)
+			-(is:hunter basestat:mobility+recovery:>=24 basestat:intellect:>=24)
+			-(is:hunter basestat:mobility+recovery:>=24 basestat:strength:>=24)
+		)
+		or
+		(
+			/* Class items that are not modified or masterwork */
+			is:classitem
+			-is:modded
+			-is:masterwork
+		)
+		or
+		(
+			/* Duplicate exotic weapons */
+			is:weapon
+			is:exotic
+			is:dupe
+			kills:0	
+		)
+		or
+		(
+			/* Non-crafted weapons that could be crafted */
+			is:patternunlocked
+			-is:crafted
+		)
+		or 
+		(
+			/* Raghav's addition - guns not on wishlist */
+			is:weapon -is:wishlistunknown -is:locked  -is:maxpower -is:wishlist 
+		)
 	)
-	or
-	(
-		/* Sunset items */
-		is:sunset
-	)
-	or
-	(
-		/* Low rarity equipment */
-		(is:weapon or is:armor)
-		(is:common or is:uncommon or is:blue)
-	)
-	or
-	(
-		/* Low roll armor */
-		is:armor
-		-is:classitem
-		-is:exotic
-		-((is:titan) basestat:resilience+recovery:>=22 basestat:intellect:>=22) or
-		-((is:titan) basestat:resilience+recovery:>=22 basestat:strength:>=22) or
-		-((is:titan) basestat:resilience+recovery:>=22 basestat:discipline:>=22) or
-		-((is:warlock) basestat:resilience+recovery:>=24 basestat:discipline:>=24)
-		-((is:warlock) basestat:resilience+recovery:>=24 basestat:intellect:>=24)
-		-((is:warlock) basestat:resilience+recovery:>=24 basestat:strength:>=24)
-		-(is:hunter basestat:mobility+resilience:>=24 basestat:discipline:>=24)
-		-(is:hunter basestat:mobility+resilience:>=24 basestat:intellect:>=24)
-		-(is:hunter basestat:mobility+resilience:>=24 basestat:strength:>=24)
-		-(is:hunter basestat:mobility+recovery:>=24 basestat:discipline:>=24)
-		-(is:hunter basestat:mobility+recovery:>=24 basestat:intellect:>=24)
-		-(is:hunter basestat:mobility+recovery:>=24 basestat:strength:>=24)
-	)
-	or
-	(
-		/* Class items that are not modified or masterwork */
-		is:classitem
-		-is:modded
-		-is:masterwork
-	)
-	or
-	(
-		/* Duplicate exotic weapons */
-		is:weapon
-		is:exotic
-		is:dupe
-		kills:0	
-	)
-	or
-	(
-		/* Non-crafted weapons that could be crafted */
-		is:patternunlocked
-		-is:crafted
-	)
-	or 
-	(
-		/* Raghav's addition - guns not on wishlist */
-		 is:weapon -is:wishlistunknown -is:locked  -is:maxpower -is:wishlist 
-	)
-)
 
-/* Ignore tagged items besides junk */
--(is:tagged -tag:junk)
+	/* Ignore tagged items besides junk */
+	-(is:tagged -tag:junk)
 
-/* Ignore items that are part of a loadout */
--is:inloadout
+	/* Ignore items that are part of a loadout */
+	-is:inloadout
 
-/* Ignore items that are equipped */
--is:equipped
+	/* Ignore items that are equipped */
+	-is:equipped
 
-/* Ignore deepsight items */
-/* -is:deepsight */
+	/* Ignore deepsight items */
+	/* -is:deepsight */
 
-/* Ignore items from a raid */
-/* -source:raid */
+	/* Ignore items from a raid */
+	-(source:raid is:armor)
 
-/* Ignore items that are max power */
--is:maxpower
+	/* Ignore items that are max power */
+	-is:maxpower
 
-/* Ignore tagged items besides junk */
--(is:tagged -tag:junk)
+	/* Ignore tagged items besides junk */
+	-(is:tagged -tag:junk)
 
--(is:hunter light:>=1790)
--(is:titan light:>=1790)
--(is:warlock light:>=1800)
--(is:weapon light:>=1800)
+	-(is:hunter light:>=1802)
+	-(is:titan light:>=1798)
+	-(is:warlock light:>=1802)
+	-(is:weapon light:>=1802)
