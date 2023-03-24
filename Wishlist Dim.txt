@@ -1,5 +1,15 @@
 title:Raghav's Wishlist
 
+// The Wizened Rebuke (pvp)
+//notes: pvp tags:pvp
+dimwishlist:item=2290416&perks=1645158859,2213355989
+
+
+// The Wizened Rebuke (pve)
+//notes: maybe tags:pve
+dimwishlist:item=2290416&perks=2173046394
+
+
 // Senuna SI6 (pvp)
 //notes: tags:pvp
 dimwishlist:item=5159537&perks=1645158859,460017080
@@ -611,6 +621,11 @@ dimwishlist:item=1019000888&perks=247725512,124408337
 // The Hero's Burden (pve)
 //notes: tags:pve
 dimwishlist:item=1028124540&perks=2779035018,1015611457
+
+
+// The Hero's Burden (pve)
+//notes: tags:pve
+dimwishlist:item=1028124540&perks=2779035018,2048641572
 
 
 // The Comedian (pvp)
@@ -1357,8 +1372,25 @@ dimwishlist:item=1866778462&perks=3977735242,2284787283
 
 
 // Blowout (pve)
-//notes: dont really want gun tags:pve
-dimwishlist:item=1903182562&perks=951095735,2396489472
+//notes: tags:pve
+dimwishlist:item=1903182562&perks=3796465595,3523296417,3194351027
+
+
+// Blowout (pve)
+//notes: tags:pve
+dimwishlist:item=1903182562&perks=3523296417,3194351027
+
+
+// Blowout (pve)
+//notes: tags:pve
+dimwishlist:item=1903182562&perks=1478423395,3796465595,3523296417,3194351027
+dimwishlist:item=1903182562&perks=1478423395,3796465595,2869569095,3194351027
+
+
+// Blowout (pve)
+//notes: tags:pve
+dimwishlist:item=1903182562&perks=2869569095,3194351027
+dimwishlist:item=1903182562&perks=3523296417,3194351027
 
 
 // The Summoner (pve)
@@ -1493,6 +1525,17 @@ dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,3824105627
 //notes: tags:pve
 dimwishlist:item=2221264583&perks=3523296417,3824105627
 dimwishlist:item=2221264583&perks=3523296417,11612903
+
+
+// Roar of the Bear (pve)
+//notes: tags:pve
+dimwishlist:item=2231910050&perks=3523296417,1546637391
+
+
+// Roar of the Bear (pvp)
+//notes: tags:pvp
+dimwishlist:item=2231910050&perks=951095735,4293542123
+dimwishlist:item=2231910050&perks=951095735,1275731761
 
 
 // Fugue-55 (god-pve)
@@ -2587,6 +2630,22 @@ dimwishlist:item=4225322581&perks=1820235745,3523296417
 // Heritage (pve)
 //notes: tags:pve
 dimwishlist:item=4248569242&perks=1523832109,469285294
+
+
+// The Hothead (pve)
+//notes: tags:pve
+dimwishlist:item=4255171531&perks=3523296417,3194351027
+dimwishlist:item=4255171531&perks=3523296417,2284787283
+dimwishlist:item=4255171531&perks=2869569095,3194351027
+dimwishlist:item=4255171531&perks=2869569095,2284787283
+
+
+// The Hothead (pve)
+//notes: tags:pve
+dimwishlist:item=4255171531&perks=3796465595,2869569095,3194351027
+dimwishlist:item=4255171531&perks=3796465595,2869569095,2284787283
+dimwishlist:item=4255171531&perks=3796465595,3523296417,3194351027
+dimwishlist:item=4255171531&perks=3796465595,3523296417,2284787283
 
 
 // Empty Vessel (pve)
