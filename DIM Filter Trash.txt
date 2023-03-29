@@ -21,18 +21,18 @@
 			is:armor
 			-is:classitem
 			-is:exotic
-			-((is:titan) basestat:resilience+recovery:>=21 basestat:intellect:>=21) or
-			-((is:titan) basestat:resilience+recovery:>=21 basestat:strength:>=21) or
-			-((is:titan) basestat:resilience+recovery:>=21 basestat:discipline:>=21) or
-			-((is:warlock) basestat:resilience+recovery:>=24 basestat:discipline:>=24)
-			-((is:warlock) basestat:resilience+recovery:>=24 basestat:intellect:>=24)
-			-((is:warlock) basestat:resilience+recovery:>=24 basestat:strength:>=24)
-			-(is:hunter basestat:mobility+resilience:>=24 basestat:discipline:>=24)
-			-(is:hunter basestat:mobility+resilience:>=24 basestat:intellect:>=24)
-			-(is:hunter basestat:mobility+resilience:>=24 basestat:strength:>=24)
-			-(is:hunter basestat:mobility+recovery:>=24 basestat:discipline:>=24)
-			-(is:hunter basestat:mobility+recovery:>=24 basestat:intellect:>=24)
-			-(is:hunter basestat:mobility+recovery:>=24 basestat:strength:>=24)
+			-((is:titan) basestat:resilience+recovery:>=20 basestat:intellect:>=20) or
+			-((is:titan) basestat:resilience+recovery:>=20 basestat:strength:>=20) or
+			-((is:titan) basestat:resilience+recovery:>=20 basestat:discipline:>=20) or
+			-((is:warlock) basestat:resilience+recovery:>=20 basestat:discipline:>=20)
+			-((is:warlock) basestat:resilience+recovery:>=20 basestat:intellect:>=20)
+			-((is:warlock) basestat:resilience+recovery:>=20 basestat:strength:>=20)
+			-(is:hunter basestat:mobility+resilience:>=20 basestat:discipline:>=20)
+			-(is:hunter basestat:mobility+resilience:>=20 basestat:intellect:>=20)
+			-(is:hunter basestat:mobility+resilience:>=20 basestat:strength:>=20)
+			-(is:hunter basestat:mobility+recovery:>=20 basestat:discipline:>=20)
+			-(is:hunter basestat:mobility+recovery:>=20 basestat:intellect:>=20)
+			-(is:hunter basestat:mobility+recovery:>=20 basestat:strength:>=20)
 		)
 		or
 		(
@@ -84,6 +84,6 @@
 	-(is:tagged -tag:junk)
 
 	-(is:hunter light:>=1805)
-	-(is:titan light:>=1798)
+	-(is:titan light:>=1805)
 	-(is:warlock light:>=1805)
 	-(is:weapon light:>=1807)
