@@ -21,9 +21,9 @@
 			is:armor
 			-is:classitem
 			-is:exotic
-			-((is:titan) basestat:resilience+recovery:>=20 basestat:intellect:>=20) or
-			-((is:titan) basestat:resilience+recovery:>=20 basestat:strength:>=20) or
-			-((is:titan) basestat:resilience+recovery:>=20 basestat:discipline:>=20) or
+			-((is:titan) basestat:resilience+recovery:>=20 basestat:intellect:>=20)
+			-((is:titan) basestat:resilience+recovery:>=20 basestat:strength:>=20)
+			-((is:titan) basestat:resilience+recovery:>=20 basestat:discipline:>=20)
 			-((is:warlock) basestat:resilience+recovery:>=20 basestat:discipline:>=20)
 			-((is:warlock) basestat:resilience+recovery:>=20 basestat:intellect:>=20)
 			-((is:warlock) basestat:resilience+recovery:>=20 basestat:strength:>=20)
@@ -82,6 +82,8 @@
 
 	/* Ignore tagged items besides junk */
 	-(is:tagged -tag:junk)
+
+	-is:locked
 
 	-(is:hunter light:>=1805)
 	-(is:titan light:>=1805)
