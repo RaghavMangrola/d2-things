@@ -85,7 +85,7 @@
 
 	-is:locked
 
-	-(is:hunter light:>=1805)
-	-(is:titan light:>=1805)
-	-(is:warlock light:>=1805)
+	-(is:hunter light:>=1807)
+	-(is:titan light:>=1807)
+	-(is:warlock light:>=1807)
 	-(is:weapon light:>=1807)
