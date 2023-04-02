@@ -1595,6 +1595,11 @@ dimwishlist:item=2171478765&perks=3038247973,3824105627
 dimwishlist:item=2187717691&perks=2779035018,831391274
 
 
+// Circular Logic (pve)
+//notes: tags:pve
+dimwishlist:item=2187717691&perks=3619207468,365154968
+
+
 // Fixed Odds (pve)
 //notes: tags:pve
 dimwishlist:item=2194955522&perks=2779035018,557221067
@@ -2258,6 +2263,11 @@ dimwishlist:item=3110377595&perks=2450788523,3425386926
 dimwishlist:item=3110377595&perks=2450788523,460017080
 
 
+// Autumn Wind (pvp)
+//notes: 6's tags:pvp
+dimwishlist:item=3110377595&perks=2846385770,460017080
+
+
 // Liminal Vigil (pvp)
 //notes: tags:pvp
 dimwishlist:item=3138208275&perks=1890422124,1015611457
@@ -2391,14 +2401,9 @@ dimwishlist:item=3385326721&perks=1168162263,3523296417
 dimwishlist:item=3385326721&perks=1168162263,4082225868
 
 
-// Legal Action II (pve)
-//notes: tags:pve
-dimwishlist:item=3409645497&perks=3436462433,4104185692
-
-
-// Legal Action II (pve)
-//notes: tags:pve
-dimwishlist:item=3409645497&perks=3436462433,3425386926
+// Legal Action II (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3409645497&perks=839105230,3142289711,2779035018,3425386926
 
 
 // Insidious (pve)
