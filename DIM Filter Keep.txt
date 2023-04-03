@@ -1,13 +1,13 @@
-((is:titan) basestat:resilience+recovery:>=21 basestat:discipline:>=21) or
-((is:titan) basestat:resilience+recovery:>=21 basestat:intellect:>=21) or
-((is:titan) basestat:resilience+recovery:>=21 basestat:strength:>=21) or
-((is:warlock) basestat:resilience+recovery:>=24 basestat:discipline:>=24) or
-((is:warlock) basestat:resilience+recovery:>=24 basestat:intellect:>=24) or
-((is:warlock) basestat:resilience+recovery:>=24 basestat:strength:>=24) or
-(is:hunter basestat:mobility+resilience:>=24 basestat:discipline:>=24) or
-(is:hunter basestat:mobility+resilience:>=24 basestat:intellect:>=24) or
-(is:hunter basestat:mobility+resilience:>=24 basestat:strength:>=24) or
-(is:hunter basestat:mobility+recovery:>=24 basestat:discipline:>=24) or
-(is:hunter basestat:mobility+recovery:>=24 basestat:intellect:>=24) or
-(is:hunter basestat:mobility+recovery:>=24 basestat:strength:>=24)
+((is:titan) basestat:resilience+recovery:>=19 basestat:discipline:>=19) or
+((is:titan) basestat:resilience+recovery:>=19 basestat:intellect:>=19) or
+((is:titan) basestat:resilience+recovery:>=19 basestat:strength:>=19) or
+((is:warlock) basestat:resilience+recovery:>=19 basestat:discipline:>=19) or
+((is:warlock) basestat:resilience+recovery:>=19 basestat:intellect:>=19) or
+((is:warlock) basestat:resilience+recovery:>=19 basestat:strength:>=19) or
+(is:hunter basestat:mobility+resilience:>=19 basestat:discipline:>=19) or
+(is:hunter basestat:mobility+resilience:>=19 basestat:intellect:>=19) or
+(is:hunter basestat:mobility+resilience:>=19 basestat:strength:>=19) or
+(is:hunter basestat:mobility+recovery:>=19 basestat:discipline:>=19) or
+(is:hunter basestat:mobility+recovery:>=19 basestat:intellect:>=19) or
+(is:hunter basestat:mobility+recovery:>=19 basestat:strength:>=19)
 -is:exotic
