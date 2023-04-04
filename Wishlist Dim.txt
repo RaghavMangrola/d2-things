@@ -1059,7 +1059,7 @@ dimwishlist:item=1403800851&perks=957782887,47981717
 
 // Nasreddin (pve)
 //notes: tags:pve
-dimwishlist:item=1456017061&perks=1749209109,3913600130
+dimwishlist:item=1456017061&perks=436053704,52780822,1749209109,3913600130
 
 
 // Acasia's Dejection (pve)
@@ -1497,17 +1497,7 @@ dimwishlist:item=1796949035&perks=3592538738,2396489472
 
 // Jararaca-3sr (pve)
 //notes: tags:pve
-dimwishlist:item=1851521408&perks=1428297954,124408337
-
-
-// Jararaca-3sr (pve)
-//notes: tags:pve
-dimwishlist:item=1851521408&perks=1428297954,2610012052
-
-
-// Jararaca-3sr (pve)
-//notes: tags:pve
-dimwishlist:item=1851521408&perks=1354429876,2610012052
+dimwishlist:item=1851521408&perks=247725512,124408337
 
 
 // The Militia's Birthright (pve)
@@ -1803,11 +1793,6 @@ dimwishlist:item=2323544076&perks=1556840489,2848615171
 dimwishlist:item=2328531378&perks=1354429876,365154968
 
 
-// Lodbrok-C (pve)
-//notes: tags:pve
-dimwishlist:item=2328531378&perks=1359896290,365154968
-
-
 // Ogma PR6 (pve)
 //notes: tags:pve
 dimwishlist:item=2342054803&perks=3523296417,3592538738
@@ -1938,6 +1923,11 @@ dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,124408337
 // Lunulata-4b (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2513965917&perks=2801223209,3429800428,3700496672,124408337
+
+
+// Lunulata-4b (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2513965917&perks=3768438372,2154191829,2846385770,124408337
 
 
 // Lunulata-4b (pve)
@@ -2077,9 +2067,9 @@ dimwishlist:item=2638190703&perks=1428297954,2896038713
 dimwishlist:item=2671639706&perks=839105230,2420895100,1428297954,4104185692
 
 
-// Irukandji (pve)
-//notes: tags:pve
-dimwishlist:item=2673925403&perks=1354429876,1771339417
+// Irukandji (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2673925403&perks=1467527085,1087426260,1354429876,1771339417
 
 
 // BxR-55 Battler (pve)
@@ -2191,22 +2181,7 @@ dimwishlist:item=2850664015&perks=2039302152,2610012052
 
 // Krait (god-pve)
 //notes: tags:god-pve
-dimwishlist:item=2852052802&perks=839105230,1885400500,1820235745,124408337
-
-
-// Krait (god-pve)
-//notes: GM's tags:god-pve
-dimwishlist:item=2852052802&perks=839105230,1885400500,3643424744,1546637391
-
-
-// Krait (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=2852052802&perks=839105230,2420895100,1820235745,124408337
-dimwishlist:item=2852052802&perks=839105230,1885400500,1820235745,124408337
-dimwishlist:item=2852052802&perks=839105230,1968497646,1820235745,124408337
-dimwishlist:item=2852052802&perks=4090651448,2420895100,1820235745,124408337
-dimwishlist:item=2852052802&perks=4090651448,1885400500,1820235745,124408337
-dimwishlist:item=2852052802&perks=4090651448,1968497646,1820235745,124408337
+dimwishlist:item=2852052802&perks=839105230,1561002382,1820235745,124408337
 
 
 // A Sudden Death (pvp)
@@ -2782,14 +2757,9 @@ dimwishlist:item=4050645223&perks=3300816228,3523296417
 dimwishlist:item=4050645223&perks=3300816228,3927722942
 
 
-// Seventh Seraph Carbine (pve)
-//notes: tags:pve
-dimwishlist:item=4070357005&perks=1523832109,365154968
-
-
-// Seventh Seraph Carbine (pve)
-//notes: tags:pve
-dimwishlist:item=4070357005&perks=1523832109,4104185692
+// Seventh Seraph Carbine (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=4070357005&perks=839105230,1087426260,1354429876,365154968
 
 
 // Hung Jury SR4 (Adept) (pve)
