@@ -21,18 +21,18 @@
 			is:armor
 			-is:classitem
 			-is:exotic
-			-((is:titan) basestat:resilience+recovery:>=19 basestat:intellect:>=19)
-			-((is:titan) basestat:resilience+recovery:>=19 basestat:strength:>=19)
-			-((is:titan) basestat:resilience+recovery:>=19 basestat:discipline:>=19)
-			-((is:warlock) basestat:resilience+recovery:>=19 basestat:discipline:>=19)
-			-((is:warlock) basestat:resilience+recovery:>=19 basestat:intellect:>=19)
-			-((is:warlock) basestat:resilience+recovery:>=19 basestat:strength:>=19)
-			-(is:hunter basestat:mobility+resilience:>=19 basestat:discipline:>=19)
-			-(is:hunter basestat:mobility+resilience:>=19 basestat:intellect:>=19)
-			-(is:hunter basestat:mobility+resilience:>=19 basestat:strength:>=19)
-			-(is:hunter basestat:mobility+recovery:>=19 basestat:discipline:>=19)
-			-(is:hunter basestat:mobility+recovery:>=19 basestat:intellect:>=19)
-			-(is:hunter basestat:mobility+recovery:>=19 basestat:strength:>=19)
+			-((is:titan) basestat:resilience+recovery:>=21 basestat:intellect:>=21)
+			-((is:titan) basestat:resilience+recovery:>=21 basestat:strength:>=21)
+			-((is:titan) basestat:resilience+recovery:>=21 basestat:discipline:>=21)
+			-((is:warlock) basestat:resilience+recovery:>=21 basestat:discipline:>=21)
+			-((is:warlock) basestat:resilience+recovery:>=21 basestat:intellect:>=21)
+			-((is:warlock) basestat:resilience+recovery:>=21 basestat:strength:>=21)
+			-(is:hunter basestat:mobility+resilience:>=21 basestat:discipline:>=21)
+			-(is:hunter basestat:mobility+resilience:>=21 basestat:intellect:>=21)
+			-(is:hunter basestat:mobility+resilience:>=21 basestat:strength:>=21)
+			-(is:hunter basestat:mobility+recovery:>=21 basestat:discipline:>=21)
+			-(is:hunter basestat:mobility+recovery:>=21 basestat:intellect:>=21)
+			-(is:hunter basestat:mobility+recovery:>=21 basestat:strength:>=21)
 		)
 		or
 		(
@@ -87,7 +87,7 @@
 
 	-is:crafted
 
-	-(is:hunter light:>=1807)
-	-(is:titan light:>=1807)
-	-(is:warlock light:>=1807)
-	-(is:weapon light:>=1807)
+	-(is:hunter light:>=1809)
+	-(is:titan light:>=1809)
+	-(is:warlock light:>=1809)
+	-(is:weapon light:>=1809)
