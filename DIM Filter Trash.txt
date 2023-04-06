@@ -75,7 +75,7 @@
 	/* -is:deepsight */
 
 	/* Ignore items from a raid */
-	-(source:raid is:armor)
+	/* -(source:raid is:armor) */
 
 	/* Ignore items that are max power */
 	-is:maxpower
@@ -84,6 +84,8 @@
 	-(is:tagged -tag:junk)
 
 	-is:locked
+
+	-is:crafted
 
 	-(is:hunter light:>=1807)
 	-(is:titan light:>=1807)
