@@ -84,6 +84,11 @@ dimwishlist:item=135029084&perks=1523832109,1546637391
 dimwishlist:item=135029084&perks=1354429876,2896038713
 
 
+// Premonition (controller)
+//notes: delete tags:controller
+dimwishlist:item=208088207&perks=839105230,2420895100,2846385770,1015611457
+
+
 // Whispering Slab (pve)
 //notes: tags:pve
 dimwishlist:item=211938782&perks=201365942,1546637391
@@ -206,6 +211,14 @@ dimwishlist:item=304659313&perks=3161816588,1546637391
 // Survivor's Epitaph (pve)
 //notes: tags:pve
 dimwishlist:item=310708513&perks=247725512,1015611457
+
+
+// Imperial Decree (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=318443586&perks=466087222,3142289711,3161816588,47981717
+dimwishlist:item=318443586&perks=466087222,3142289711,3161816588,1370847713
+dimwishlist:item=318443586&perks=466087222,3142289711,191144788,47981717
+dimwishlist:item=318443586&perks=466087222,3142289711,191144788,1370847713
 
 
 // Retold Tale (pvp)
@@ -574,6 +587,11 @@ dimwishlist:item=577528837&perks=2946784966,1015611457
 dimwishlist:item=577528837&perks=1820235745,4104185692
 
 
+// Sojourner's Tale (controller)
+//notes: delete tags:controller
+dimwishlist:item=599895591&perks=839105230,791862061,247725512,2450788523
+
+
 // Age-Old Bond (pve)
 //notes: tags:pve
 dimwishlist:item=601592879&perks=1354429876,3425386926
@@ -625,6 +643,11 @@ dimwishlist:item=681067419&perks=247725512,3824105627
 dimwishlist:item=686951703&perks=957782887,1015611457
 
 
+// Arsenic Bite-4b (pve)
+//notes: tags:pve
+dimwishlist:item=720351795&perks=3425386926,3365897133
+
+
 // Deliverance (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=768621510&perks=839105230,689005463,1428297954,2978966579
@@ -656,6 +679,21 @@ dimwishlist:item=772231794&perks=1820235745,3824105627
 // Hung Jury SR4 (pve)
 //notes: tags:pve
 dimwishlist:item=772231794&perks=247725512,3038247973
+
+
+// Insidious (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=786352912&perks=3523296417,11612903
+
+
+// Insidious (Adept) (pvp)
+//notes: tags:pvp
+dimwishlist:item=786352912&perks=247725512,3425386926
+
+
+// Insidious (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=786352912&perks=247725512,1048183818
 
 
 // Synchronic Roulette (god-pve)
@@ -963,6 +1001,11 @@ dimwishlist:item=1311684613&perks=2869569095,2396489472
 dimwishlist:item=1321506184&perks=1359896290,557221067
 
 
+// Chrysura Melo (controller)
+//notes: Delete tags:controller
+dimwishlist:item=1337707096&perks=839105230,106909392,2621346526,3592538738
+
+
 // Tears of Contrition (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1366394399&perks=839105230,3142289711,3400784728,3038247973
@@ -1109,6 +1152,11 @@ dimwishlist:item=1532276803&perks=2846385770,699525795
 // Seventh Seraph Officer Revolver (pve)
 //notes: delete tags:pve
 dimwishlist:item=1555959830&perks=839105230,1140096971,1523832109,2213355989
+
+
+// Mindbender's Ambition (pve)
+//notes: tags:pve
+dimwishlist:item=1586231351&perks=691659142,4293542123
 
 
 // Enyo-D (god-pve)
@@ -1832,6 +1880,11 @@ dimwishlist:item=2349907931&perks=1354429876,124408337
 dimwishlist:item=2378101424&perks=1556840489,3300816228
 
 
+// The Vision (controller)
+//notes: delete tags:controller
+dimwishlist:item=2414141462&perks=445755707,1087426260,3436462433,4049631843
+
+
 // Royal Entry (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2448907086&perks=1478423395,2985827016,3300816228,3927722942
@@ -2071,6 +2124,16 @@ dimwishlist:item=2638190703&perks=1428297954,1354429876
 dimwishlist:item=2638190703&perks=1428297954,2896038713
 
 
+// Astral Horizon (pvp)
+//notes: tags:pvp
+dimwishlist:item=2653171213&perks=972757866,3511092054
+
+
+// Astral Horizon (pve)
+//notes: tags:pve
+dimwishlist:item=2653171213&perks=3161816588,2679249093
+
+
 // Pure Poetry (pve)
 //notes: tags:pve
 dimwishlist:item=2671639706&perks=839105230,2420895100,1428297954,4104185692
@@ -2099,6 +2162,12 @@ dimwishlist:item=2714022207&perks=1467527085,1483536627,2866798147,1015611457
 // Riptide (pve)
 //notes: tags:pve
 dimwishlist:item=2715240478&perks=3300816228,2978966579
+
+
+// Dire Promise (pvp)
+//notes: tags:pvp
+dimwishlist:item=2742838701&perks=957782887,2846385770
+dimwishlist:item=2742838701&perks=47981717,2846385770
 
 
 // Firefright (pve)
@@ -2213,6 +2282,16 @@ dimwishlist:item=2869466318&perks=691659142,4082225868
 dimwishlist:item=2869466318&perks=1359896290,1015611457
 
 
+// Hung Jury SR4 (Adept) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2883684343&perks=839105230,3142289711,3700496672,3891536761
+
+
+// Hung Jury SR4 (Adept) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2883684343&perks=839105230,3142289711,247725512,3891536761
+
+
 // Crisis Inverted (pvp)
 //notes: tags:pvp
 dimwishlist:item=2888266564&perks=247725512,2846385770
@@ -2236,6 +2315,11 @@ dimwishlist:item=2891672170&perks=3161816588,2679249093
 // Toil and Trouble (pvp)
 //notes: tags:pvp
 dimwishlist:item=2957367743&perks=3161816588,957782887
+
+
+// Out of Bounds (controller)
+//notes: delete tags:controller
+dimwishlist:item=2988121501&perks=3250034553,679225683,1359896290,2846385770
 
 
 // Succession (god-pve)
@@ -2374,6 +2458,11 @@ dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,47981717
 dimwishlist:item=3164743584&perks=957782887,47981717
 
 
+// Whistler's Whim (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3165143747&perks=3768438372,2154191829,2450788523,1015611457
+
+
 // Memory Interdict (pve)
 //notes: tags:pve
 dimwishlist:item=3165547384&perks=951095735,2396489472
@@ -2444,6 +2533,11 @@ dimwishlist:item=3245493570&perks=3700496672,1546637391
 // Half-Truths (pve)
 //notes: tags:pve
 dimwishlist:item=3257091166&perks=1749209109,2077819806
+
+
+// Twilight Oath (controller)
+//notes: delete tags:controller
+dimwishlist:item=3297863558&perks=839105230,3142289711,1866048759,2848615171
 
 
 // Funnelweb (god-pve)
@@ -2532,6 +2626,21 @@ dimwishlist:item=3473290087&perks=588594999,47981717
 dimwishlist:item=3489657138&perks=3300816228,3194351027
 
 
+// Acasia's Dejection (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=3493494807&perks=1523832109,4293542123
+
+
+// Acasia's Dejection (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=3493494807&perks=3619207468,365154968
+
+
+// Acasia's Dejection (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=3493494807&perks=1523832109,3215448563
+
+
 // Pleiades Corrector (pve)
 //notes: delete tags:pve
 dimwishlist:item=3556999246&perks=1354429876,3592538738
@@ -2611,6 +2720,11 @@ dimwishlist:item=3738678140&perks=1631667848,2360754333
 // Sleepless (pve)
 //notes: tags:pve
 dimwishlist:item=3740842661&perks=3300816228,2396489472
+
+
+// Shepherd's Watch (pvp)
+//notes: tags:pvp
+dimwishlist:item=3743729616&perks=588594999,957782887
 
 
 // Long Shadow (pve)
